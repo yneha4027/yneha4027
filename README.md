@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yneha4027&label=Profile%20views&color=0e75b6&style=flat" alt="yneha4027" /> </p>
 
-- 📝 I regularly write articles on [Blogger login](Blogger login)
+- 📝 I regularly write articles on [https://tinyurl.com/2p96hzku](Blogger login)
 
 - 📫 How to reach me **yneha4027@gmail.com**
 
