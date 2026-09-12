@@ -37,6 +37,45 @@ Computer Science graduate (B.E. CSE, Chandigarh University), currently pursuing 
 
 <br>
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[cpp_programming](https://github.com/yneha4027/cpp_programming)**
+C++ programming & DSA practice
+`C++`
+
+</td>
+<td width="50%" valign="top">
+
+**[Python_programming](https://github.com/yneha4027/Python_programming)**
+Python programming & data handling
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[C-programming](https://github.com/yneha4027/C-programming)**
+Core C language fundamentals
+`C`
+
+</td>
+<td width="50%" valign="top">
+
+**[bharat_intern-_task-1](https://github.com/yneha4027/bharat_intern-_task-1)**
+Internship project task
+`CSS`
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -50,6 +89,14 @@ Computer Science graduate (B.E. CSE, Chandigarh University), currently pursuing 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yneha4027&theme=react-dark&hide_border=true&radius=8" />
+</p>
+
+<br>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yneha4027&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <br>
