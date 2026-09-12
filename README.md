@@ -1,99 +1,69 @@
-<div align="center">
+<table>
+<tr>
+<td width="68%" valign="top">
 
-# 👋 Hi, I'm Neha Yadav
+## 👋 Hi, I'm Neha Yadav
 
-### 🎓 M.Tech CSE @ IGDTUW | 💻 Computer Science Engineer
+I'm a Computer Science graduate (B.E. CSE, Chandigarh University) and currently pursuing **M.Tech CSE at IGDTUW, Delhi**.
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Learning+DSA+%7C+Java+%7C+C%2B%2B;Exploring+Python+%7C+SQL+%7C+Machine+Learning;Building+my+Software+Development+skills" alt="Typing SVG" />
-</p>
+I'm passionate about building solutions with real-world impact and I'm actively working towards becoming a skilled Software Engineer.
 
-<p>
-  <a href="https://www.linkedin.com/in/neha-yadav-156915230/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yneha4027@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-1f6feb?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-92400e?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-7c3aed?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-2563eb?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/-DSA-9f1239?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0d9488?style=flat-square&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=yneha4027&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+### 🌱 Currently Learning
+- Machine Learning fundamentals
+- Computer Networks
+- Java (OOPs + DSA)
+- Data Structures & Algorithms
+- SQL — Queries & Data Analysis
 
-</div>
+</td>
+<td width="32%" valign="top">
 
----
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-92400e?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7c3aed?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-2563eb?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-9f1239?style=flat-square&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-0d9488?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-334155?style=flat-square&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-334155?style=flat-square&logoColor=white)
 
-## 🧑‍💻 About Me
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-yadav-156915230/)
+[![Email](https://img.shields.io/badge/-Email-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:yneha4027@gmail.com)
 
-🎓 Pursuing **M.Tech in Computer Science & Engineering at IGDTUW**
+### 🎓 About Me
+- **B.E. CSE** — Chandigarh University
+- **M.Tech CSE** — IGDTUW, Delhi
+- **Target Role:** Software Development
+- **Location:** New Delhi, India
 
-🎓 B.E. in **Computer Science Engineering from Chandigarh University**
+### 💚 
+Better than yesterday.  
+That's the goal.
 
-🌱 Currently strengthening my fundamentals in **DSA, Java, C++, Python and SQL**
+</td>
+</tr>
+</table>
 
-🤖 Exploring **Machine Learning and Data-related technologies**
+<br>
 
-🎯 My goal is to become a **strong, job-ready software developer**
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneha4027&layout=compact&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" />
+</td>
+</tr>
+</table>
 
-📚 Currently focused on consistent coding practice and building practical skills.
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,vscode" />
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-| Area | Focus |
-|---|---|
-| 🧩 DSA | Arrays, Strings, Linked Lists, Stacks, Queues & more |
-| ☕ Java | OOP, Classes, Objects & Problem Solving |
-| 💻 C++ | Programming & DSA |
-| 🐍 Python | Programming & Data Handling |
-| 🗄️ SQL | Queries, Joins & Data Analysis |
-| 🤖 ML | Machine Learning Fundamentals |
-| 🌐 Networks | Computer Networks Fundamentals |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneha4027&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yneha4027&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-- 🧠 Build strong DSA & problem-solving skills
-- ☕ Improve Java and OOP fundamentals
-- 🐍 Strengthen Python & SQL
-- 🤖 Learn Machine Learning fundamentals
-- 🚀 Build meaningful projects
-- 💼 Prepare for software development opportunities
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
-
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yneha4027&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" />
