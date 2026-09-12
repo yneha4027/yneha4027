@@ -1,50 +1,98 @@
-# 👋 Hi, I'm Neha Yadav
+<div align="center">
 
-🎓 **M.Tech CSE @ IGDTUW**
-💻 **B.E. Computer Science Engineering | Chandigarh University**
+# 👋 Hey, I'm Neha Yadav
 
-I'm currently strengthening my programming and problem-solving skills and working towards becoming a **job-ready software developer**.
+### 🎓 M.Tech CSE @ IGDTUW | 💻 B.E. CSE
 
-### 🚀 Currently Learning
-
-* 📚 Data Structures & Algorithms
-* ☕ Java & Object-Oriented Programming
-* 🐍 Python & SQL
-* 🤖 Machine Learning
-* 🌐 Computer Networks
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
-
-### 🎯 What I'm Working Towards
-
-Building strong fundamentals in **DSA, software development, data and machine learning** through consistent practice and projects.
-
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/neha-yadav-156915230/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-</a>
-</p>
-
-📧 **Email:** [yneha4027@gmail.com](mailto:yneha4027@gmail.com)
-
-### 📊 GitHub Stats
+**Java • C++ • Python • SQL • DSA • Machine Learning**
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&hide_border=true" alt="Neha's GitHub Stats"/>
+  <a href="https://www.linkedin.com/in/neha-yadav-156915230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yneha4027@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yneha4027%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yneha4027&hide_border=true" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=yneha4027&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+🎓 Currently pursuing **M.Tech in Computer Science at IGDTUW**
+
+💻 B.E. in **Computer Science Engineering from Chandigarh University**
+
+🌱 Currently improving my **DSA, Java, Python, SQL and Machine Learning** skills.
+
+🎯 Focused on becoming a **job-ready software developer**.
+
+📚 Currently learning through consistent coding practice and projects.
+
+---
+
+## 🧠 What I'm Learning
+
+```text
+DSA                  ███████░░░  Improving
+Java                 ██████░░░░  Learning
+C++                  ███████░░░  Improving
+Python               ██████░░░░  Learning
+SQL                  ██████░░░░  Improving
+Machine Learning     ████░░░░░░  Exploring
+```
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,vscode" />
+
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneha4027&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yneha4027&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+🔹 Data Structures & Algorithms
+🔹 Java & Object-Oriented Programming
+🔹 Python & SQL
+🔹 Machine Learning
+🔹 Building practical projects
+🔹 Preparing for software development opportunities
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Let's connect and build something awesome 🚀**
+
+</div>
