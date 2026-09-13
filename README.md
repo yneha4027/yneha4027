@@ -69,3 +69,47 @@ Development & Projects
 Problem Solving
         ↓
 Interview Preparation
+---
+
+## 🎓 Education
+
+### M.Tech — Information Technology (Cyber Security)
+**Indira Gandhi Delhi Technical University for Women (IGDTUW)**  
+2026 – 2028
+
+### B.E. — Computer Science & Engineering
+**Chandigarh University**  
+2021 – 2025
+
+---
+
+## 🎯 Career Goal
+
+I'm working towards becoming a **job-ready Software Engineer** by strengthening my fundamentals in:
+
+**Java • C++ • Python • DSA • SQL • OOP • Computer Networks • Machine Learning**
+
+I'm interested in opportunities where I can learn, contribute and grow as a developer.
+
+---
+
+## 💻 Areas of Interest
+
+- 💻 Software Development
+- 🐍 Python Development
+- 📊 Data Analysis
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔐 Cyber Security
+- 🧠 Data Structures & Algorithms
+
+---
+
+## 📌 What I'm Working On
+
+```text
+☕ Java & OOP
+🧠 DSA & Problem Solving
+🤖 Machine Learning
+🌐 Computer Networks
+🔐 Cyber Security
+📊 Data Analysis
