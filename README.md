@@ -4,7 +4,7 @@
 
 I'm a **Computer Science graduate (B.E. CSE, Chandigarh University)** and currently pursuing **M.Tech in Information Technology (Cyber Security) at IGDTUW, Delhi**.
 
-I'm currently building my skills in **Java, C++, DSA, SQL, Python, Machine Learning and Cyber Security** with a strong focus on becoming **placement-ready**.
+I'm currently building my skills in **Java, C++, DSA, SQL, Python, Machine Learning and Cyber Security**, with a strong focus on becoming **placement-ready**.
 
 ---
 
@@ -46,8 +46,8 @@ I'm currently building my skills in **Java, C++, DSA, SQL, Python, Machine Learn
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneha4027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneha4027&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
 </p>
 
 ---
@@ -55,15 +55,15 @@ I'm currently building my skills in **Java, C++, DSA, SQL, Python, Machine Learn
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yneha4027&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yneha4027&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yneha4027&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yneha4027&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -71,22 +71,40 @@ I'm currently building my skills in **Java, C++, DSA, SQL, Python, Machine Learn
 # 📂 My Repositories
 
 <p align="center">
-  <a href="https://github.com/yneha4027?tab=repositories">
-    <img src="https://img.shields.io/badge/📁%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
-### ⭐ Featured Projects
+<a href="https://github.com/yneha4027/C-programming">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=C-programming&theme=tokyonight&hide_border=true" />
+</a>
 
-<p align="center">
-
-<a href="https://github.com/yneha4027">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=YOUR-REPOSITORY-NAME&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/yneha4027/cpp_programming">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=cpp_programming&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
-> 🚧 More projects coming soon as I build and upload them.
+<p align="center">
+
+<a href="https://github.com/yneha4027/Python_programming">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=Python_programming&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/yneha4027/bharat_intern-_task-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=bharat_intern-_task-1&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/yneha4027/Hacktoberfest_2021">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=Hacktoberfest_2021&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/yneha4027">
+<img src="https://img.shields.io/badge/➜%20View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
@@ -139,10 +157,18 @@ Cyber Security
 # 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://github.com/yneha4027">
-    <img src="https://img.shields.io/badge/GitHub-yneha4027-181717?style=for-the-badge&logo=github"/>
-  </a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
+
+> Coding profiles will be updated with my personal profile links as I build my problem-solving history.
 
 ---
 
@@ -156,10 +182,6 @@ Cyber Security
 
 <a href="https://www.linkedin.com/in/neha-yadav-156915230/">
 <img src="https://img.shields.io/badge/LinkedIn-Neha%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yneha4027">
-<img src="https://img.shields.io/badge/GitHub-yneha4027-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
