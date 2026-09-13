@@ -1,115 +1,83 @@
+<div align="center">
+
 # 👋 Hi, I'm Neha Yadav
 
-### M.Tech IT (Cyber Security) Student | Aspiring Software Engineer
+### M.Tech IT (Cyber Security) | Aspiring Software Engineer
 
-I'm a **Computer Science graduate (B.E. CSE, Chandigarh University)** and currently pursuing **M.Tech in Information Technology (Cyber Security) at IGDTUW, Delhi**.
-
-I'm building my programming and problem-solving skills step by step, with a focus on **Software Development, Data, AI/ML and Cyber Security**.
-
-I believe in:
-
-> 🌱 **Small steps everyday, big results.** 💜
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="70%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+I'm a **Computer Science graduate (B.E. CSE, Chandigarh University)** and currently pursuing **M.Tech in IT (Cyber Security) at IGDTUW, Delhi**.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+I'm passionate about building practical solutions and continuously improving my skills in **Software Development, Data, AI/ML and Cyber Security**.
 
-<p>
-  <img src="https://img.shields.io/badge/DSA-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cyber%20Security-6C5CE7?style=for-the-badge"/>
-</p>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-9B59B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2E8B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-6C5CE7?style=flat-square"/>
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
-- 🤖 Advanced Machine Learning
-- 🧠 Data Structures & Algorithms
-- ☕ Java & Object-Oriented Programming
-- 🌐 Computer Networks
-- 📊 Data Analysis & Visualization
-- 🔐 Cyber Security & Digital Forensics
+| | |
+|---|---|
+| 🤖 Advanced Machine Learning | 🌐 Computer Networks |
+| 🧠 Data Structures & Algorithms | ☕ Java (OOPs + DSA) |
+| 📊 Data Analysis & Visualization | 🔐 Cyber Security & Forensics |
 
----
+</td>
 
-## 💻 Coding Journey
+<td width="30%" align="center" valign="middle">
 
-Currently working on strengthening my fundamentals through:
+### 💜
 
-```text
-Programming Fundamentals
-        ↓
-Data Structures & Algorithms
-        ↓
-Core Computer Science
-        ↓
-Development & Projects
-        ↓
-Problem Solving
-        ↓
-Interview Preparation
----
+<br>
 
-## 🎓 Education
+<i>
+Small steps<br>
+everyday,<br>
+<br>
+big results.
+</i>
 
-### M.Tech — Information Technology (Cyber Security)
-**Indira Gandhi Delhi Technical University for Women (IGDTUW)**  
-2026 – 2028
+<br><br>
 
-### B.E. — Computer Science & Engineering
-**Chandigarh University**  
-2021 – 2025
+🌱 💻 🧠 ✨
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Goal
+<div align="center">
 
-I'm working towards becoming a **job-ready Software Engineer** by strengthening my fundamentals in:
+### 🛠️ Tech Stack
 
-**Java • C++ • Python • DSA • SQL • OOP • Computer Networks • Machine Learning**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-I'm interested in opportunities where I can learn, contribute and grow as a developer.
+<br>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-## 💻 Areas of Interest
-
-- 💻 Software Development
-- 🐍 Python Development
-- 📊 Data Analysis
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cyber Security
-- 🧠 Data Structures & Algorithms
-
----
-
-## 📌 What I'm Working On
-
-```text
-☕ Java & OOP
-🧠 DSA & Problem Solving
-🤖 Machine Learning
-🌐 Computer Networks
-🔐 Cyber Security
-📊 Data Analysis
+</div>
