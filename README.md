@@ -1,14 +1,26 @@
 <div align="center">
 
-# 👋 Hey, I'm Neha Yadav
+# 👋 Hi, I'm Neha Yadav
 
 ### 💻 M.Tech IT (Cyber Security) Student | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;M.Tech+IT+%40+IGDTUW;Learning+Java+%7C+DSA+%7C+Python;Exploring+AI+%7C+ML+%7C+Cyber+Security;Building+My+Way+Towards+Software+Engineering" />
+**B.E. CSE @ Chandigarh University • M.Tech IT @ IGDTUW**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=yneha4027&label=Profile%20Views&color=70A5FD&style=flat" />
+<a href="https://github.com/yneha4027">
+  <img src="https://img.shields.io/badge/GitHub-yneha4027-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/neha-yadav-156915230/">
+  <img src="https://img.shields.io/badge/LinkedIn-Neha%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yneha4027@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yneha4027-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yneha4027&label=Profile%20Views&color=blue&style=flat-square"/>
 
 </div>
 
@@ -18,32 +30,32 @@
 
 Hi! I'm **Neha Yadav**, a Computer Science graduate currently pursuing **M.Tech in Information Technology (Cyber Security) at IGDTUW, Delhi**.
 
-I'm focused on strengthening my programming and problem-solving skills while exploring **Software Development, Data Analytics, Machine Learning and Cyber Security**.
+I'm focused on improving my **programming, problem-solving and software development skills** while exploring **Machine Learning, Data Analytics and Cyber Security**.
 
-```text
-🎓 B.E. Computer Science & Engineering — Chandigarh University
-🎓 M.Tech IT (Cyber Security) — IGDTUW
-💻 Learning Java & DSA
-🐍 Working with Python & SQL
-🤖 Exploring Machine Learning
-🔐 Exploring Cyber Security
-🎯 Preparing for Software Engineering opportunities
-```
+* 🎓 B.E. Computer Science & Engineering — Chandigarh University
+* 🎓 M.Tech IT (Cyber Security) — IGDTUW
+* 💻 Currently learning **Java & DSA**
+* 🐍 Working with **Python & SQL**
+* 🤖 Exploring **Machine Learning & AI**
+* 🔐 Interested in **Cyber Security & Software Development**
+* 🎯 Focused on becoming **placement-ready**
+* 📍 Delhi, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -54,57 +66,76 @@ I'm focused on strengthening my programming and problem-solving skills while exp
 
 ### 🧠 Areas I'm Exploring
 
-`Data Structures & Algorithms` • `Machine Learning` • `Artificial Intelligence` • `Cyber Security` • `Data Analytics`
+`Data Structures & Algorithms`
+`Machine Learning`
+`Artificial Intelligence`
+`Cyber Security`
+`Data Analytics`
+`Software Development`
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yneha4027&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
+| 📌                     | GitHub                   |
+| ---------------------- | ------------------------ |
+| 👤 Username            | **yneha4027**            |
+| 📦 Public Repositories | **9**                    |
+| ⭐ Stars                | **1**                    |
+| 👥 Followers           | **1**                    |
+| 👀 Profile             | **github.com/yneha4027** |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yneha4027&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" width="42%" />
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/yneha4027?tab=repositories">
+<img src="https://img.shields.io/badge/📂%20View%20All%209%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yneha4027&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yneha4027&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yneha4027&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" />
+<img src="https://streak-stats.demolab.com/?user=yneha4027&theme=default&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🏆 GitHub Profile
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yneha4027&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<a href="https://github.com/yneha4027?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-9-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="https://github.com/yneha4027?tab=stars">
+<img src="https://img.shields.io/badge/Stars-1-yellow?style=for-the-badge&logo=github"/>
+</a>
 
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<a href="https://github.com/yneha4027">
+<img src="https://img.shields.io/badge/Followers-1-blue?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -112,30 +143,38 @@ I'm focused on strengthening my programming and problem-solving skills while exp
 
 # 📂 My Repositories
 
+I use GitHub to practice programming, explore technologies and document my learning journey.
+
 ### 💻 Programming
 
 <div align="center">
 
 <a href="https://github.com/yneha4027/C-programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=C-programming&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://img.shields.io/badge/C--Programming-View%20Repository-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 
 <a href="https://github.com/yneha4027/cpp_programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=cpp_programming&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://img.shields.io/badge/C%2B%2B--Programming-View%20Repository-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </a>
 
 </div>
 
-### 🐍 Python & Projects
+### 🐍 Python
 
 <div align="center">
 
 <a href="https://github.com/yneha4027/Python_programming">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=Python_programming&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://img.shields.io/badge/Python--Programming-View%20Repository-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 
+</div>
+
+### 🌐 Web / Internship Work
+
+<div align="center">
+
 <a href="https://github.com/yneha4027/bharat_intern-_task-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=bharat_intern-_task-1&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://img.shields.io/badge/Bharat%20Intern%20Task--1-View%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -145,10 +184,12 @@ I'm focused on strengthening my programming and problem-solving skills while exp
 <div align="center">
 
 <a href="https://github.com/yneha4027/Hacktoberfest_2021">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yneha4027&repo=Hacktoberfest_2021&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://img.shields.io/badge/Hacktoberfest%202021-View%20Repository-F05032?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -162,17 +203,15 @@ I'm focused on strengthening my programming and problem-solving skills while exp
 
 # 🎯 2026 Goals
 
-```text
-☐ Strengthen Java fundamentals
-☐ Master Data Structures & Algorithms
-☐ Solve LeetCode problems consistently
-☐ Build meaningful real-world projects
-☐ Improve SQL & Python
-☐ Learn Machine Learning fundamentals
-☐ Build Cyber Security projects
-☐ Contribute to Open Source
-☐ Become placement-ready
-```
+* [ ] Strengthen Java fundamentals
+* [ ] Master Data Structures & Algorithms
+* [ ] Solve LeetCode problems consistently
+* [ ] Build real-world projects
+* [ ] Improve SQL & Python
+* [ ] Learn Machine Learning fundamentals
+* [ ] Build Cyber Security projects
+* [ ] Contribute to Open Source
+* [ ] Become placement-ready 💻
 
 ---
 
@@ -210,20 +249,20 @@ I'm focused on strengthening my programming and problem-solving skills while exp
 
 </div>
 
-> 🚀 Coding profiles will be updated with my personal profile links as I continue building my problem-solving journey.
+> 🚀 Personal coding-profile links will be added as I build my problem-solving history.
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:yneha4027@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-yneha4027%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/neha-yadav-156915230/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Neha%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -236,8 +275,6 @@ I'm focused on strengthening my programming and problem-solving skills while exp
 
 **Learning → Building → Improving → Repeating**
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:8A2BE2&height=100&section=footer"/>
+⭐ **Keep learning. Keep building. Keep growing.**
 
 </div>
